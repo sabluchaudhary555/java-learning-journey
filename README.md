@@ -12,7 +12,7 @@ Welcome to my structured Java learning repository.
 **Focus**: Java Fundamentals and Data Types.
 * **Introduction:** Introduction & History of Java. JVM vs JRE vs JDK.
 * **Syntax:** Data Types,Type Conversion, Variables, Identifiers, Keywords and Scanner Methods.
-    * 📂 Mini Project: [Currency Converter](./src/p1_basics/data_types/CurrencyConverter.java)
+    * 📂 Mini Project: [Currency Converter](./src/p1_basics/data_types/Currency_Converter.java)
 * **Control Flow:** Decision Making (if, if-else, switch) and Loops (for, while, do-while).
 * **Operators:** Arithmetic, Logical, Bitwise, and Ternary.
     
