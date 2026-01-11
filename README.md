@@ -8,13 +8,18 @@ Welcome to my structured Java learning repository.
 - **JDK:** Java 25
 
 ## 📂 Learning Roadmap (Topic-wise)
+
 ### 🟢 Phase 1: [p1basics](./src/p1basics)
 * **Introduction:** Introduction & History of Java. JVM vs JRE vs JDK.
 * **Syntax:** Data Types,Type Conversion, Variables, Identifiers, Keywords and Scanner Methods.
     * 📂 Mini Project: [CurrencyConverter](./src/p1basics/datatypes/CurrencyConverter.java)
 * **Operators:** Arithmetic, Logical, Bitwise, and Ternary.
     * 📂 Mini Project: [ComprehensiveCalculator](./src/p1basics/operators/ComprehensiveCalculator.java)
-* **Control Flow:** Decision Making (if, if-else, switch) and Loops (for, while, do-while).
+* **Decision Making:** [if, if-else, switch, nested-if-else and Ternary](./src/p1basics/decisionmaking/)
+    * 📂 Mini Project: [BankingSystem](./src/p1basics/decisionmaking/BankingSystem.java)
+    * 📂 Mini Project: [TemperatureConverter](./src/p1basics/decisionmaking/TemperatureConverter.java)
+* **Loops and Jump Statements:** [for, while, do-while, break, continue](./src/p1basics/loops/)
+  
  
 
 ### 🔵 Phase 2: Methods & Arrays
