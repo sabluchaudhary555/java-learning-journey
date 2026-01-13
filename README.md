@@ -22,7 +22,7 @@ Welcome to my structured Java learning repository.
   
  
 
-### 🔵 Phase 2: Methods & Arrays
+### 🔵 Phase 2: Methods, Arrays & Strings
 * **Methods:** Static vs Instance Methods, Parameters, and Return types.
 * **Arrays:** 1D Arrays, Multi-dimensional Arrays, and Jagged Arrays.
 * **Strings:** String Immutability, String Methods, `StringBuilder`, and `StringBuffer`.
