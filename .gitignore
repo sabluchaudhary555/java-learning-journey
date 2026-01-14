@@ -16,6 +16,11 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+
+# Ignore specific practice files
+src/Practice.java
+
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/

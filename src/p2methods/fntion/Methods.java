@@ -4,7 +4,7 @@ package p2methods.fntion;
 public class Methods {
 
     // ==============================================================
-    // 📌 1. SIMPLE VOID METHOD (No Return Value)
+    // 1. SIMPLE VOID METHOD (No Return Value)
     // ==============================================================
 
     // Method definition: 'public' means accessible from anywhere
@@ -16,7 +16,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 2. METHOD WITH PARAMETERS
+    //  2. METHOD WITH PARAMETERS
     // ==============================================================
 
     // Method that takes parameters (inputs)
@@ -32,7 +32,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 3. METHOD WITH RETURN VALUE
+    //  3. METHOD WITH RETURN VALUE
     // ==============================================================
 
     // Method that returns an integer
@@ -62,7 +62,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 4. METHOD OVERLOADING (Same name, different parameters)
+    //  4. METHOD OVERLOADING (Same name, different parameters)
     // ==============================================================
 
     // Version 1: Square of integer
@@ -83,7 +83,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 5. RECURSIVE METHOD (Calls itself)
+    //  5. RECURSIVE METHOD (Calls itself)
     // ==============================================================
 
     // Calculate factorial: 5! = 5 × 4 × 3 × 2 × 1 = 120
@@ -96,7 +96,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 6. METHOD CALLING OTHER METHODS
+    //  6. METHOD CALLING OTHER METHODS
     // ==============================================================
 
     public static void calculateCircle(double radius) {
@@ -120,7 +120,7 @@ public class Methods {
     }
 
     // ==============================================================
-    // 📌 7. MAIN METHOD (Entry point - where program starts)
+    // 7. MAIN METHOD (Entry point - where program starts)
     // ==============================================================
 
     public static void main(String[] args) {
