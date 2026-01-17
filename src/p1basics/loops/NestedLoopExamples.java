@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class NestedLoop {
+public class NestedLoopExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic Nested Loop (Pattern 1)

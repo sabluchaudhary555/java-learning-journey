@@ -1,6 +1,6 @@
 package p1basics.decisionmaking;
 
-public class IfStatement {
+public class IfStatementExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic if statement

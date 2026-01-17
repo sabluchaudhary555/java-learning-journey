@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class Continue {
+public class ContinueExamples {
     public static void main(String[] args) {
 
         // Example 1: Skip even numbers

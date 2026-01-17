@@ -1,6 +1,6 @@
 package p1basics.decisionmaking;
 
-public class IfElseStatement {
+public class IfElseStatementExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic if-else (Number Comparison)

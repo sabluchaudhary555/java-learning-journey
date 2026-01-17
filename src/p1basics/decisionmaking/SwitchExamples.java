@@ -1,6 +1,6 @@
 package p1basics.decisionmaking;
 
-public class Switch {
+public class SwitchExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic Switch (Number to Day)

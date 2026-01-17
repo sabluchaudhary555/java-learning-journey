@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class Break {
+public class BreakExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic break in for loop

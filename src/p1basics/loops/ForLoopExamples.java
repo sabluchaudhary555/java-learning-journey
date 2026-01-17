@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class ForLoop {
+public class ForLoopExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic For Loop (Print Numbers 1 to 5)

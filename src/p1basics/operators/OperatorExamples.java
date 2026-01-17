@@ -1,6 +1,6 @@
 package p1basics.operators;
 
-public class Operator {
+public class OperatorExamples {
     public static void main(String[] args) {
 
                 // ====================

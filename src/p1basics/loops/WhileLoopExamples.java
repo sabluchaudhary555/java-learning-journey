@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class WhileLoop {
+public class WhileLoopExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic While Loop (Print 1 to 5)

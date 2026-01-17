@@ -1,6 +1,6 @@
 package p1basics.decisionmaking;
 
-public class TernaryOperator {
+public class TernaryOperatorExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic Ternary (Even or Odd)

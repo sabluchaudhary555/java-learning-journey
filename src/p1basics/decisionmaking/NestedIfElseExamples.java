@@ -1,6 +1,6 @@
 package p1basics.decisionmaking;
 
-public class NestedIfElse {
+public class NestedIfElseExamples {
     public static void main(String[] args) {
 
         // Example 1: Blood Donation Eligibility

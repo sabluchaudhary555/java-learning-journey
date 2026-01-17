@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class DoWhileLoop {
+public class DoWhileLoopExamples {
     public static void main(String[] args) {
 
         // Example 1: Basic Do-While (Print 1 to 5)

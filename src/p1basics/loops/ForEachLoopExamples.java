@@ -1,6 +1,6 @@
 package p1basics.loops;
 
-public class ForEachLoop {
+public class ForEachLoopExamples {
     public static void main(String[] args) {
 
         // Example 1: Iterating over integer array

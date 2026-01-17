@@ -18,7 +18,9 @@ Welcome to my structured Java learning repository.
 * **Decision Making:** [if, if-else, switch, nested-if-else and Ternary](./src/p1basics/decisionmaking/)
     * 📂 Mini Project: [BankingSystem](./src/p1basics/decisionmaking/BankingSystem.java)
     * 📂 Mini Project: [TemperatureConverter](./src/p1basics/decisionmaking/TemperatureConverter.java)
-* **Loops and Jump Statements:** [for, while, do-while, break, continue](./src/p1basics/loops/)
+* **Loops and Jump Statements:** [for, while, do-while, foreach, nested, and break, continue](./src/p1basics/loops/)
+    * 📂 Mini Project: [NumberGuessingGame](./src/p1basics/loops/NumberGuessingGame.java)
+    * 📂 Mini Project: [PasswordStrengthChecker](./src/p1basics/loops/PasswordStrengthChecker.java)
   
  
 
