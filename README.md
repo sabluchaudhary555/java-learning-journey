@@ -26,6 +26,7 @@ Welcome to my structured Java learning repository.
 
 ### 🔵 Phase 2: Methods, Arrays & Strings
 * **Methods:** Static vs Instance Methods, Parameters, and Return types.
+     * 📂 Mini Project: [ToDoManager](./src/p2methods/method/ToDoManager.java)
 * **Arrays:** 1D Arrays, Multi-dimensional Arrays, and Jagged Arrays.
 * **Strings:** String Immutability, String Methods, `StringBuilder`, and `StringBuffer`.
 
@@ -55,4 +56,14 @@ Welcome to my structured Java learning repository.
 2.  **Practice Logic:** Inside each folder, you will find source code implementing core concepts and common examples.
 3.  **Execution:** To run the code, open the `.java` files in IntelliJ IDEA and execute the `main` method.
 ---
-*Follow my journey as I code my way to my dream job!* 💻✨
+
+**Happy Learning! 🚀**
+
+*Contributions and suggestions are welcome!*
+
+---
+
+**Maintained by: [Sablu Chaudhary](https://github.com/sabluchaudhary555)** 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sablu-chaudhary555/) | [GitHub](https://github.com/sabluchaudhary555)
+
+---
+**Made with ❤️ for the Open Source Community**
