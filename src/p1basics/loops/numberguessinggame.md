@@ -91,9 +91,15 @@ Do you want to play again? (y/n): y
 - Java JDK 8+
 - Standard library only (Scanner, Random)
 
----
-## License
+<br>
+<br>
+**Happy Learning! 🚀**
 
-Developed by SSoft.in
+*Contributions and suggestions are welcome!*
 
 ---
+
+**Maintained by: [Sablu Chaudhary](https://github.com/sabluchaudhary555)** 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sablu-chaudhary555/) | [GitHub](https://github.com/sabluchaudhary555) | [SSoft.in](https://ssoft.in/)
+
+---
+**Made with ❤️ for the Open Source Community**

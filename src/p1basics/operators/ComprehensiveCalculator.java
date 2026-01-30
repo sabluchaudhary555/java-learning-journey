@@ -354,5 +354,3 @@ public class ComprehensiveCalculator {
     }
 }
 
-// Created By SSoft.in
-// Sablu Softwate IT Solutions

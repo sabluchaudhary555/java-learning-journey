@@ -1,4 +1,4 @@
-package p2methods.method;
+package p2datastr.method;
 
 // Public class - accessible from anywhere
 public class AccessModifiers {
@@ -48,29 +48,29 @@ public class AccessModifiers {
             this.privateAge = newAge;
         }
     }
-}
 
-// ANOTHER CLASS IN SAME PACKAGE
-class PackageClass {
-    public void testAccess() {
-        AccessModifiers obj = new AccessModifiers();
+    // ==================== FILE 2: PackageClass ====================
+    // ANOTHER CLASS IN SAME PACKAGE
+    static class PackageClass {
+        public void testAccess() {
+            AccessModifiers obj = new AccessModifiers();
 
-        // Can access PUBLIC
-        System.out.println(obj.publicName);
+            // Can access PUBLIC
+            System.out.println(obj.publicName);
 
-        // CANNOT access PRIVATE
-        // System.out.println(obj.privateAge); // ERROR
+            // CANNOT access PRIVATE
+            // System.out.println(obj.privateAge); // ERROR
 
-        // Can access PROTECTED (same package)
-        System.out.println(obj.protectedSalary);
+            // Can access PROTECTED (same package)
+            System.out.println(obj.protectedSalary);
 
-        // Can access DEFAULT (same package)
-        System.out.println(obj.defaultDepartment);
+            // Can access DEFAULT (same package)
+            System.out.println(obj.defaultDepartment);
+        }
     }
-}
 
-// MAIN CLASS TO TEST
- class TestAccess {
+    // ==================== FILE 3: TestAccess (Main Method) ====================
+    // MAIN METHOD TO TEST
     public static void main(String[] args) {
         AccessModifiers demo = new AccessModifiers();
 

@@ -1,4 +1,4 @@
-package p2methods.method;
+package p2datastr.method;
 
 public class BasicMethodExample {
 

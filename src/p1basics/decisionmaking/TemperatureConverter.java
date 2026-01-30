@@ -101,5 +101,3 @@ public class TemperatureConverter {
     }
 }
 
-// Created by SSoft.in
-// Sablu Software IT solutions
