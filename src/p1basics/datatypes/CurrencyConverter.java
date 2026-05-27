@@ -74,9 +74,9 @@ public class CurrencyConverter {
         Scanner scanner = new Scanner(System.in);
 
 
-        // ============================================
+
         // SECTION 3: DISPLAY WELCOME MESSAGE
-        // ============================================
+
 
         System.out.println("═══════════════════════════════════════════════");
         System.out.println("  " + appName + "                              ");
@@ -92,7 +92,7 @@ public class CurrencyConverter {
 
 
         // ============================================
-        // SECTION 4: MAIN CONVERSION LOOP
+        // SECTION 4: MAIN CONVERSION JAVA LOOP
         // ============================================
 
         boolean continueConverting = true;
